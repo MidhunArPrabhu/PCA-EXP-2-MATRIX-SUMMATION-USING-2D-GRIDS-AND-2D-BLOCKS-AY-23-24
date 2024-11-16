@@ -1,8 +1,7 @@
-# PCA EXP-2 Matrix Summation using 2D Grids and 2D Blocks AY 23 24
+# EXP-2 Matrix Summation using 2D Grids and 2D Blocks AY 23 24
 
 ### NAME : MIDHUN AZHAHU RAJA P
 ### REGISTER NO: 212222240066
-### EX. NO: 02
 
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
